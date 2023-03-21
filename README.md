@@ -17,5 +17,5 @@ Tomás Matías Esquivel
 - GitHub: tomasesquivelgc
 - Twitter: @EsquivelTomas
 
-#Special thanks to
+# Special thanks to
 The Microverse team :)
