@@ -1,0 +1,28 @@
+{
+  "name": "Hello-Microverse",
+  "version": "1.0.0",
+  "description": "This is my repository for the \"Hello-microverse\" project\r In this project I am putting to the test my ability to:\r - create and merge branches\r - add linters to my repo\r - add .gitignore files",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hint": "^7.1.5",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomasesquivelgc/Hello-Microverse.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tomasesquivelgc/Hello-Microverse/issues"
+  },
+  "homepage": "https://github.com/tomasesquivelgc/Hello-Microverse#readme"
+}
