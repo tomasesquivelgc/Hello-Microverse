@@ -1,5 +1,5 @@
 {
-  "name": "Hello-Microverse",
+  "name": "hello-microverse",
   "version": "1.0.0",
   "description": "This is my repository for the \"Hello-microverse\" project\r In this project I am putting to the test my ability to:\r - create and merge branches\r - add linters to my repo\r - add .gitignore files",
   "main": "index.js",
