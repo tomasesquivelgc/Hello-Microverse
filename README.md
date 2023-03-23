@@ -67,6 +67,11 @@ In this project I am putting to the test my ability to:
 - add linters to my repo
 - add .gitignore files
 
+Recent changes to this repository include:
+- Proper installation of linters
+- Detailed comments to branch pull requests
+- Proper professional README file
+
 ## 🛠 Built With <a name="built-with"></a>
 
 - HTML.
